@@ -1,0 +1,9 @@
+/index.html
+/styles.css
+/project-template.html   <-- als Vorlage, duplizieren für jedes Projekt
+/images/
+  project1.jpg
+  project2.jpg
+  project3.jpg
+/fonts/                  <-- optional lokale Webfonts
+README.md
